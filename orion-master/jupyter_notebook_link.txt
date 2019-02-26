@@ -1,0 +1,3 @@
+# notebook / blog link 
+
+https://orion-eddyizm.notebooks.azure.com/nb/notebooks/constellation.ipynb
